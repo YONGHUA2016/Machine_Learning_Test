@@ -1,1 +1,1 @@
-This is the readme file for this dire.
+This is the readme file for this dir.
